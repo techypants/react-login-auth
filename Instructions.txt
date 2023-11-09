@@ -1,0 +1,3 @@
+Just go to terminal from this directory and type in "npm install"
+
+once the procedure is done run -> "npm start"
